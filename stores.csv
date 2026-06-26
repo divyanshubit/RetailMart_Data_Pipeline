@@ -1,0 +1,17 @@
+store_id,store_name,city,region
+S001,RetailMart Kota Central,Kota,North
+S002,RetailMart Jaipur Mall,Jaipur,North
+S003,RetailMart Udaipur Lake,Udaipur,West
+S004,RetailMart Indore Plaza,Indore,Central
+S005,RetailMart Bhopal Square,Bhopal,Central
+S006,RetailMart Ahmedabad One,Ahmedabad,West
+S007,RetailMart Pune Hub,Pune,West
+S008,RetailMart Delhi Centre,Delhi,North
+S009,RetailMart Mumbai Point,Mumbai,West
+S010,RetailMart Surat Hub,Surat,West
+S011,RetailMart Lucknow Plaza,Lucknow,North
+S012,RetailMart Kanpur Centre,Kanpur,North
+S013,RetailMart Jodhpur Store,Jodhpur,North
+S014,RetailMart Ajmer Store,Ajmer,North
+S015,RetailMart Nagpur Hub,Nagpur,Central
+S016,RetailMart Chandigarh Mall,Chandigarh,North
